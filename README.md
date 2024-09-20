@@ -1,8 +1,10 @@
 
 ![image](https://github.com/user-attachments/assets/613d041f-dcbe-4a71-8036-8b2999b91e7d)
 
-Hello All , This Fatema Hyderabadwala.
-I am currently working on a tableau project where I am anayzing the HR department of a X company. 
+Hello All , 
+
+This Fatema Hyderabadwala.
+I am currently working on a tableau project where I am anayzing the HR department of  X company. 
 My insights are going to tell the company about high-level insights and detailed employee records for depth analysis.
 Jump on to get a glimpse on what I am working on...
 
